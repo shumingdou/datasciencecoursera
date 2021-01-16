@@ -27,7 +27,7 @@ download.file(fileUrl, destfile = paste0(getwd(), '/repdata%2Fdata%2Factivity.zi
 unzip("repdata%2Fdata%2Factivity.zip",exdir = "data")
 ```
 
-Reading csv Data into Data.Table.
+Reading csv Data into Data.Table. 
 ---------------------------------
 
 ``` r
